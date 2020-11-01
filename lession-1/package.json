@@ -1,0 +1,28 @@
+{
+    "name": "package.json",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/khanhviet/lession1.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/khanhviet/lession1/issues"
+    },
+    "homepage": "https://github.com/khanhviet/lession1#readme",
+    "description": "",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-sass": "^4.1.0"
+    },
+    "dependencies": {
+        "del": "^6.0.0",
+        "webpack": "^5.1.3"
+    }
+}
